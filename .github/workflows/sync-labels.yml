@@ -9,9 +9,9 @@ on:
   - cron:  '00 5 * * *'
 
 
-
 jobs:
   labels:
+    name: Pull & Import Labels
     runs-on: ubuntu-latest
 
     steps:
