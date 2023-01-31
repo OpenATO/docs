@@ -30,9 +30,11 @@ This section is for users of the OpenATO platform. It covers everything you need
 
 ### Community
 
-~~Learn about the visual and linguistic guidelines, including the logo, color palette, typography, tone of voice and messaging conventions that should be followed across all communications for OpenATO.~~
+This section is designed for OpenATO users and members of the open-source community. This section provides information about the community, how to get involved, and the resources available for support and engagement. Coordination and communication take place in the Community Repository, making it a hub for the OpenATO community.
 
 [Learn about the Community](/community)
+
+[Interact with the Community](https://github.com/OpenATO/Community)
 
 
 
