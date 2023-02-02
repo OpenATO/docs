@@ -5,6 +5,16 @@ This documentation covers the the OpenATO Community
 
 **⚙ Geared For:** People or orgs who want to work with OpenATO
 
+
+### Links to Tools and Platforms
+ 
+ #### GRCs
+ 
+-  MITRE eMass
+-  RSA Archer
+-  Xacta Telos
+-  Galvenize: DOJ CSAM
+
 ### Links to External Articles:
 
 [Authorization to Operate Field Guide](https://adhoc.team/ato/)
