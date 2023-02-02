@@ -8,12 +8,12 @@ This documentation covers the the OpenATO Community
 
 ### Links to Tools and Platforms
  
- #### GRCs
+ #### GRCs and other risk management tools/frameworks
  
--  MITRE eMass
--  RSA Archer
--  Xacta Telos
--  Galvenize: DOJ CSAM
+-  [MITRE SAF](https://saf.mitre.org/#/)
+-  [RSA Archer](https://www.rsa.com)
+-  [Xacta Telos](https://www.telos.com/offerings/xacta/)
+-  [Galvenize (used by DOJ)](https://www.wegalvanize.com)
 
 ### Links to External Articles:
 
